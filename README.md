@@ -1,1 +1,1 @@
-# LLM
+# Lingo Wiz
